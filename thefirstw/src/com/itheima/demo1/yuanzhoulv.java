@@ -12,7 +12,7 @@ public class yuanzhoulv {
         System.out.println("请输入a的值:");
         a = input.nextInt();
         area =Math.PI * radius *radius;//程序中圆周率使用Math类的PI常量
-        perimeter = 2* Math.PI *radius;
+        perimeter = 2 * Math.PI *radius;
         System.out.println("a的值为:" + a);
         System.out.println("圆的面积为:" + area);
         System.out.println("圆的周长为:" + perimeter);
