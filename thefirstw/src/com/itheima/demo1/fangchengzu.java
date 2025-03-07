@@ -13,7 +13,7 @@ public class fangchengzu {
         c = input.nextDouble();
         d = input.nextDouble();
         f = input.nextDouble();
-        if((a * d - b* c) == 0)
+        if((a * d - b* c) == 0)//
         {
             System.out.println("此方程组无解");
         }
