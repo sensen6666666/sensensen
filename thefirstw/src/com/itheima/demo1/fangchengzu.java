@@ -12,7 +12,7 @@ public class fangchengzu {
         System.out.println("请输入cdf的值");
         c = input.nextDouble();
         d = input.nextDouble();
-        f = input.nextDouble();
+        f = input.nextDouble();//
         if((a * d - b* c) == 0)//
         {
             System.out.println("此方程组无解");
