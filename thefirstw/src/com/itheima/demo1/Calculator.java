@@ -33,7 +33,7 @@ public class Calculator {
     }
 }
 /*
-生成随机数也可以用java..util.random类
+生成随机数也可以用java.util.random类
 Random rand = new Random();
 int number = 10 + rand.nextInt(90);
 */
