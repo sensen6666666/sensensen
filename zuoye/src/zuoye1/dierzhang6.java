@@ -8,7 +8,7 @@ public class dierzhang6 {
         float BMI;
         System.out.print("请输入您的体重（kg）：");
         w = input.nextFloat();
-        System.out.print("请输入您的身高（m）：");
+        System.out.print("请输入您的身高（m）：");//
         h = input.nextFloat();
         BMI = w / h / h;
         System.out.print("您的BMI为" + BMI);
