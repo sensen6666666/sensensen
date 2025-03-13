@@ -8,7 +8,7 @@ public class ArrTest9 {
         int[] arr ={1,2,3,4,5};
         Random r = new Random();
 
-        for(int i = 0;i < arr.length;i++)
+       for(int i = 0;i < arr.length;i++)
         {
             //生成一个随机索引
             int randomIndex = r.nextInt(arr.length);
